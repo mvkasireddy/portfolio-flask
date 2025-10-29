@@ -1,2 +1,3 @@
 # portfolio-flask
-I am learning
+I am learning how to create portfolio using flask
+
